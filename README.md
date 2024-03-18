@@ -9,8 +9,7 @@
 
 # RadiantRadar
 
-User
-ValorBot is a Discord bot designed to enhance the Valorant gaming experience by providing real-time tracking and statistics for players. With ValorBot, Discord users can effortlessly stay updated on their own and their friends' performance in Valorant matches, including match history, rank progression, and agent statistics. Whether you're striving for improvement or simply keeping tabs on your competitive journey, ValorBot is your reliable companion on the battlefield of Valorant.
+RadiantRadar is a Discord bot designed to enhance the Valorant gaming experience by providing real-time tracking and statistics for players. With RadiantRadar, Discord users can effortlessly stay updated on their own and their friends' performance in Valorant matches, including match history, rank progression, and agent statistics. Whether you're striving for improvement or simply keeping tabs on your competitive journey, RadiantRadar is your reliable companion on the battlefield of Valorant.
 
 ## Features 🚀
 
