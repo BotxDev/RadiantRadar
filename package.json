@@ -1,0 +1,14 @@
+{
+  "name": "radiantradar",
+  "version": "1.0.0",
+  "description": "ValorBot is a Discord bot designed to enhance the Valorant gaming experience by providing real-time tracking and statistics for players. With ValorBot, Discord users can effortlessly stay updated on their own and their friends' performance in Valorant matches, including match history, rank progression, and agent statistics. Whether you're striving for improvement or simply keeping tabs on your competitive journey, ValorBot is your reliable companion on the battlefield of Valorant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua J",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
