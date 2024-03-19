@@ -1,10 +1,7 @@
 
 ## Badges
 
-[![Node.js Version](https://img.shields.io/badge/Node.js-21.7.1-brightgreen)](https://nodejs.org/en/)
-
-[![Discord.js Version](https://img.shields.io/badge/discord.js-14.14.1-blue)](https://discord.js.org/)
-
+[![Node.js Version](https://img.shields.io/badge/Node.js-21.7.1-brightgreen)](https://nodejs.org/en/) [![Discord.js Version](https://img.shields.io/badge/discord.js-14.14.1-blue)](https://discord.js.org/)
 
 
 # RadiantRadar
