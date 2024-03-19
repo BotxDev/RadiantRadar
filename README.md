@@ -22,11 +22,11 @@ ValorBot is a Discord bot designed to enhance the Valorant gaming experience by 
 
 ## Roadmap
 
-- Automate choosing agents for every map.
+- Automate choosing agents for every map. (Under Development)
 
-- Better functionality and support. 
+- Better functionality and support. (Soon)
 
-- Optimizations 
+- Optimizations (Soon)
 
 
 ## Acknowledgements
