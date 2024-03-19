@@ -3,7 +3,6 @@
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-21.7.1-brightgreen)](https://nodejs.org/en/) [![Discord.js Version](https://img.shields.io/badge/discord.js-14.14.1-blue)](https://discord.js.org/)
 
-
 # RadiantRadar
 
 User
@@ -61,6 +60,10 @@ Then run the bot!
 ```bash
   node script.js
 ```
+
+## Need help? 
+
+[![Discord Server](https://discord.com/api/guilds/1190698596866207794/widget.png)](https://discord.gg/6aXFzR9ZJD)
 
 
 ## License
