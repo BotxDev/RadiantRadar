@@ -63,7 +63,7 @@ Then run the bot!
 
 ## Need help? 
 
-[![Discord Server](https://discord.com/api/guilds/1190698596866207794/widget.png)](https://discord.gg/6aXFzR9ZJD)
+[![Discord Server]](https://discord.gg/6aXFzR9ZJD)
 
 
 ## License
