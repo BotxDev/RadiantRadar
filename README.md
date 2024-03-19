@@ -32,7 +32,7 @@ ValorBot is a Discord bot designed to enhance the Valorant gaming experience by 
 ## Acknowledgements
 Please be aware that the software provided in this repository is classified as third-party software and is subject to Riot's Terms and Conditions. Usage of this software is at your own risk, and you are solely responsible for ensuring compliance with Riot's policies and regulations. The developers of this software do not assume any liability for any consequences arising from its use.
 
-[terms of use](https://developer.riotgames.com/terms)
+[Riots API terms of use](https://developer.riotgames.com/terms)
 
 
 ## How to run
